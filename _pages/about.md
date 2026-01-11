@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-![Profile Banner](/assets/images/self.jpg
+![Profile Banner](/assets/images/self.jpg)
 
 I am a PhD Candidate and Devaney Fellow in the Department of Ecology and Evolutionary Biology at the University of Colorado at Boulder. I am fascinated by collective animal behaviour and the potential of emergent properties to shape ecological and evolutionary dynamics. The advent of computer vision approaches to automate the extraction of quantitative data from video is particularly exciting to me.
 
