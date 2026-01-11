@@ -12,9 +12,9 @@ a {
 }
 
 /* Make the sidebar profile image bigger */
-.author__avatar img {
-  width: 180px;       /* default is ~120px, increase as needed */
-  height: 180px;      /* keep square ratio */
+.home .author__avatar img {
+  width: 300px;       /* default is ~120px, increase as needed */
+  height: 300px;      /* keep square ratio */
   border-radius: 50%; /* keeps it circular */
   margin-bottom: 1rem; /* optional spacing below the image */
 }
