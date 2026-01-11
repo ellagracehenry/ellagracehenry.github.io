@@ -21,6 +21,9 @@ github_username: ellagracehenry
 minimal_mistakes_skin: sunrise
 search: true
 
+custom_css:
+  - assets/css/custom.css
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
