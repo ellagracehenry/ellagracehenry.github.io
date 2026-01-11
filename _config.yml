@@ -57,9 +57,9 @@ plugins:
 author:
   name   : "Ella Grace Henry"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : " PhD Candidate studying wild animal collectives as informational networks with computer vision approaches. Fascinated by the evolution of collective behaviour. Gil Lab, University of Colorado at Boulder"
+  bio    : "PhD Candidate at the Univeristy of Colorado at Boulder studying wild animal collectives as informational networks with computer vision approaches. Fascinated by the evolution of collective behaviour."
   links:
-    - label: "Google Scholar"
+    - label: "Google Scholar"https://github.com/ellagracehenry/ellagracehenry.github.io/blob/master/_config.yml
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=0gaVFtYAAAAJ&hl=en"
     - label: "GitHub"
@@ -72,7 +72,7 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "/assets/images/google-scholar.svg"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=0gaVFtYAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
