@@ -7,4 +7,6 @@ I am a PhD Candidate and Devaney Fellow in the Department of Ecology and Evoluti
 
 Specifically, my doctoral dissertation focuses on the role of social organisation in mediating patterns of information flow and decision-making in the wild. I use long-term observation, field experiments and theoretical approaches to study two marine fish species that differ dramatically in the stability of social group composition: the **Brown Garden Eel** (_Heteroconger longissimus_), a semi-pelagic fish that forms permanent aggregations on the sandflats, and the **Blue Tang** (_Acanthurus coeruleus_), a roving herbivore that exhibits fission-fusion schooling dynamics.
 
+Find my CV here.
+
 ![Profile Banner](/assets/images/self.jpg)
