@@ -59,7 +59,6 @@ plugins:
 
 author:
   name   : "Ella Grace Henry"
-  avatar : "/assets/images/self.jpg"
   bio    : "Collective Behaviour, Computer Vision, Evolutionary Biology"
   links:
     - label: "Google Scholar"
