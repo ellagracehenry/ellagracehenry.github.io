@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ella Grace Henry"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Collective Behaviour | Computer Vision | Evolutionary Biology"
+  bio    : "Collective Behaviour, Computer Vision, Evolutionary Biology"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
