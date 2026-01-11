@@ -16,7 +16,7 @@
 title: Ella Grace Henry
 email: elhe2720@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate researching the evolution of collective behaviour using computer vision techniques.
+  PhD Candidate studying wild animal collectives as informational networks with computer vision approaches. Fascinated by the evolution of collective behaviour.
   Gil Lab, University of Colorado at Boulder
 github_username: ellagracehenry
 minimal_mistakes_skin: default
@@ -56,19 +56,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ella Grace Henry"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : " PhD Candidate studying wild animal collectives as informational networks with computer vision approaches. Fascinated by the evolution of collective behaviour. Gil Lab, University of Colorado at Boulder"
   links:
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://scholar.google.com/citations?user=0gaVFtYAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ellagracehenry"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
