@@ -61,7 +61,7 @@ author:
   bio    : " PhD Candidate studying wild animal collectives as informational networks with computer vision approaches. Fascinated by the evolution of collective behaviour. Gil Lab, University of Colorado at Boulder"
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "/assets/images/google-scholar.svg"
       url: "https://scholar.google.com/citations?user=0gaVFtYAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
