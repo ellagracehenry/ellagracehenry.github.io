@@ -57,9 +57,9 @@ plugins:
 author:
   name   : "Ella Grace Henry"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate at the Univeristy of Colorado at Boulder studying wild animal collectives as informational networks with computer vision approaches. Fascinated by the evolution of collective behaviour."
+  bio    : "Collective Behaviour | Computer Vision | Evolutionary Biology"
   links:
-    - label: "Google Scholar"https://github.com/ellagracehenry/ellagracehenry.github.io/blob/master/_config.yml
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=0gaVFtYAAAAJ&hl=en"
     - label: "GitHub"
