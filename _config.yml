@@ -73,8 +73,8 @@ author:
 header_pages:
   -  index.html
   - _pages/about.md
-  - _pages/cv.md
   - _pages/news.md
+  - _pages/research.md
 
 footer:
   links:
