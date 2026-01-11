@@ -71,9 +71,10 @@ author:
       url: "https://www.linkedin.com/in/ella-henry-b010531b2"
 
 header_pages:
+  -  index.html
   - _pages/about.md
   - _pages/cv.md
-  - _pages/research.md
+  - _pages/news.md
 
 footer:
   links:
