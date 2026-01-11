@@ -1,0 +1,12 @@
+/* Subtle academic accent */
+a {
+  text-decoration-thickness: 1.5px;
+}
+
+.author__bio {
+  font-size: 0.95em;
+}
+
+.page__title {
+  letter-spacing: 0.02em;
+}
