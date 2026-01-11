@@ -58,7 +58,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ella Grace Henry"
   bio    : "Collective Behaviour, Computer Vision, Evolutionary Biology"
   links:
     - label: "Google Scholar"
